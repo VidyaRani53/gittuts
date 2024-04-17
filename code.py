@@ -1,0 +1,1 @@
+print("Vidya Rani+entry course")
